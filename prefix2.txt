@@ -1,0 +1,4 @@
+DNASeq_out/ADL06
+DNASeq_out/ADL09
+DNASeq_out/ADL10
+DNASeq_out/ADL14
